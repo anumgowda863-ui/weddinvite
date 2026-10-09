@@ -1,0 +1,1 @@
+Put a licensed traditional Kannada wedding song here, named wedding-music.mp3. The music button will play it after a visitor taps it.
